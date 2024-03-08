@@ -9,6 +9,7 @@
 
 ::-webkit-scrollbar-track {
   background: #555;
+  border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb {
