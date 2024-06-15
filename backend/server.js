@@ -7,8 +7,10 @@ import userRoutes from "./routes/user.routes.js";
 import { connectToMongoDB } from "./db/connectToMongoDB.js";
 import cookieParser from "cookie-parser";
 import { app, server } from "./socket/socket.js";
+import job from "./crons/cron.js";
 
 dotenv.config();
+job.start();
 const PORT = process.env.PORT || 6000;
 
 const __dirname = path.resolve();
