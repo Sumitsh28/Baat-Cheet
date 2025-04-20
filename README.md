@@ -5,6 +5,8 @@
 
 BAAT-CHEET is a real-time chat application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack and Socket.IO for real-time communication.
 
+### Live Link: https://baat-cheet-6edp.onrender.com
+
 
 
 ![Logo](https://github.com/Sumitsh28/Baat-Cheet/blob/50b395e96899ccad950957cb14b053dcbed82b9c/frontend/Screenshot%202024-03-08%20at%206.31.51%E2%80%AFPM.png?raw=true)
